@@ -1,0 +1,10 @@
+# mammals
+
+cat
+dog
+bear
+
+# birds
+woodpecker
+parrot
+eagle
